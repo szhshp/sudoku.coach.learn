@@ -2,6 +2,10 @@
 
 This repository contains screenshots of the **Learn** section from [sudoku.coach](https://sudoku.coach/en/learn), capturing the main content of each technique page for reference and offline use.
 
+## Example Screenshots
+
+![Technique overview](en/08_main_en_learn_technique-overview.png)
+
 ## Structure
 
 Each subfolder corresponds to a language locale. Images are organized by language:
